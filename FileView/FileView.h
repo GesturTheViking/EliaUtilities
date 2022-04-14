@@ -1,3 +1,12 @@
+/*
+* FileViewR
+*
+* Creates a file mapping and maps a view of the file into address space.
+* For fast reading of binary files.
+* 
+* Requirements: Win32
+*/
+
 #pragma once
 
 #include <stdint.h>

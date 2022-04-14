@@ -1,4 +1,13 @@
+/*
+* Dictionary
+*
+* Data-oriented growing hash map class.
+*
+* Requirements: C++17
+*/
+
 #pragma once
+
 #include <stdint.h>
 #include <initializer_list>
 

@@ -1,3 +1,11 @@
+/*
+* BitArray
+*
+* Container class for easily storing bit values.
+*
+* Requirements: C++17
+*/
+
 #pragma once
 
 #include <stdint.h>
