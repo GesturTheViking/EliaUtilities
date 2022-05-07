@@ -9,7 +9,11 @@
 #pragma once
 
 #include <stdint.h>
+#include <stdlib.h>
+#include <assert.h>
+#include <string.h>
 #include <initializer_list>
+#include <new>
 
 constexpr uint64_t dictionaryDefaultCapacity = 32U;
 constexpr uint64_t capacityThreshold = 2U;
